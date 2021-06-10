@@ -1,0 +1,268 @@
+img{
+    max-width: 100%;
+}
+
+
+/*header-section*/
+.header-section{
+    background: #ffffff;
+}
+.header-section .logo{
+    font-size: 26px;
+    margin-right: 8px;
+}
+.header-section .logo-left{
+    display: block;
+    position: absolute;
+    top: 18px;
+    left: 166px;
+    color: #000;
+    font-weight: 600;
+}
+.header-section ul{
+    margin: auto;
+    margin-right: 20px;
+}
+.header-section ul li {
+    font-size: 18px;
+    margin-right: 12px;
+    padding: 3px 5px;
+}
+.header-section ul li a{
+    color: #000;
+}
+/*banner-section*/
+.banner-section{
+    background: #eeeeff;
+    padding: 10px;
+    height: 530px;
+}
+.banner-content{
+
+}
+.banner-content h5{
+    margin-top: 157px !important;
+    font-size: 20px;
+}
+.banner-content h2{
+    font-size: 39px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.banner-content p{
+    font-size: 17px;
+    font-weight: inherit;
+    margin-top: 23px;
+}
+.banner-content a.btn.btn-primary {
+    margin-top: 20px;
+    padding: 6px 14px;
+}
+.banner-image img{
+      height: 520px;
+}
+/*about-section*/
+.about-section{
+    padding: 60px;
+}
+.about-ditail{
+    padding: 68px;
+}
+.about-section h5{
+    font-weight: 600;
+    font-size: 22px;
+}
+.about-section h3{
+    font-size: 35px;
+    margin-top: 15px;
+}
+.about-section p{
+    margin-top: 10px;
+}
+a.btn.btn-primary {
+    margin-top: 18px;
+    width: 136px;
+}
+/*number-section*/
+
+.counter-number{
+    background: #6fbaed;
+    padding: 45px;
+     
+}
+.number-item{
+    margin-top: 31px;
+}
+.number-item p{
+    font-size: 18px;
+    color: #000 !important;
+}
+.number-item .h2{
+    font-size: 40px;
+}
+/*service-section*/
+
+.service-section{
+    padding: 50px;
+    background: #f9f9ff;
+}
+.s-top {
+    
+}
+.s-top h2{
+    margin-bottom: 25px;
+    font-size: 36px;
+    font-weight: 400
+}
+.s-top p{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 23px;
+}
+.service-content{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.3);
+    padding: 31px;
+    border-radius: 5px
+    cursor: pointer;
+}
+
+
+.service-content h3{
+    background: #bdc3c7;
+    display: inline-block;
+    width: 71px;
+    padding: 18px 15px;
+    border-radius: 50%;
+    
+}
+.service-content h5{
+    margin-top: 15px;
+    font-size: 23px;
+}
+.service-content p{
+
+}
+.service-content ul{
+
+}
+.service-content ul li{
+    list-style: none;
+    list-style: none;
+    font-size: 22px;
+    margin-top: 36px;
+    font-weight: 300;
+}
+.service-content .btn-outline-primary {
+    color: #1075fa !important;
+    border-color: #0d6efd;
+    margin-top: 20px;
+    width: 148px;
+    font-size: 20px;
+    transition: .4s !important;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.3);
+
+}
+.service-content .btn-outline-primary:hover{
+    color: #fff !important;
+}
+
+/*team-section*/
+.team-section{
+    padding: 80px;
+    background-color: #ffffff;
+    
+}
+.team-image{
+    position: relative;
+}
+.team-image img {
+    position: absolute;
+    width: 81px;
+    left: 17px;
+    top: -56px;
+    border-radius: 2px;
+   
+}
+.team-bio {
+    box-shadow: 2.5px 23.33px 30px 0 rgb(64 87 191 / 30%);
+    height: 313px;
+    padding: 31px;
+}
+}
+
+.team-bio h3{
+    font-size: 29px;
+    margin-top: 17px;
+}
+.team-bio h5{
+    margin-bottom: 21px;
+}
+.team-bio p{
+    line-height: 
+}
+.team-bio a {
+    text-decoration: none;
+    background: #8aadc4;
+    padding: 6px 16px;
+    border-radius: 3px;
+    color: #000;
+    font-weight: 600;
+    margin-top: 30px !important;
+    display: block;
+    width: 106px;
+    margin: auto;
+    box-shadow: 2.5px 4.33px 30px 0 rgb(64 97 191 / 64%);
+}
+
+/*contact-section*/
+.contact-section{
+    padding: 80px;
+    background-color: #eeeefb;
+}
+.contact-section .rite{
+    font-size: 34px;
+}
+.contact-form{
+    background-color: #ffffff;
+    padding: 53px;
+}
+.contact-form h5{
+    margin-bottom: 27px;
+}
+.contact-form a.btn.btn-primary {
+    margin-top: 18px;
+    width: 136px;
+    display: inline-block;
+    margin-left: 153px;
+    margin-top: 22px;
+}
+.contact-bio{
+    padding: 40px;
+    font-size: 19px;
+}
+.footer-section{
+    background-color: rgb(53, 50, 50);
+    padding: 20px;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+.team-bio{
+    box-shadow: 2.5px 20.33px 30px 0 rgb(64 87 191 / 30
+    height: 315px;
+
+}
+
+
+
+
+
+
+
